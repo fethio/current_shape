@@ -1,10 +1,3 @@
-Please verify that you included the MANDATORY Replication of Results section in your manuscript. 
-
-It is desirable that papers, especially on new methodology, should help readers reproduce results presented in the paper. This can be done in a variety of ways, including making data or codes available as supplementary material. It is recognized that this is not always possible, but in that case, the paper should explain why it is not possible. Therefore, submitted papers are required to have a section titled Replication of results that will address this topic. This section should appear just before the References section. If no results are presented in the paper, the section should have the following sentence: No results are presented. 
-
-The datasets generated during and/or analysed during the current study are available in the ZENODO repository, [PERSISTENT WEB LINK TO DATASETS]
-
-
 #Attribution-NonCommercial-ShareAlike 4.0 International
 
 =======================================================================
